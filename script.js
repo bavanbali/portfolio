@@ -1,49 +1,25 @@
 const skills = [
   { icon: "</>", title: "Programming", items: ["C++", "Java", "Python", "JavaScript"] },
-  { icon: "⌘", title: "Web development", items: ["HTML", "CSS", "JavaScript", "React.js", "Node.js", "Express.js"] },
-  { icon: "▤", title: "Database", items: ["MongoDB", "MySQL", "SQLite"] },
-  { icon: "⚙", title: "Tools & interests", items: ["Git", "GitHub", "VS Code", "Postman", "AI & ML", "DSA"] },
+  { icon: "âŒ˜", title: "Web development", items: ["HTML", "CSS", "JavaScript", "React.js", "Node.js", "Express.js"] },
+  { icon: "â–¤", title: "Database", items: ["MongoDB", "MySQL", "SQLite"] },
+  { icon: "âš™", title: "Tools & interests", items: ["Git", "GitHub", "VS Code", "Postman", "AI & ML", "DSA"] },
 ];
 
 const projects = [
   {
-    title: "Job Finder AI",
-    description: "Published static demo with job discovery, search, and location/category filters. Firebase sign-in and saved-job data need project configuration.",
-    technologies: ["HTML", "CSS", "JavaScript", "Firebase"],
-    symbol: "⌕",
-    github: "https://github.com/BavanBali/JobFinder-AI",
-    demo: "https://bavanbali.github.io/JobFinder-AI/",
-  },
-  {
     title: "StudyMate AI",
     description: "Published student learning demo with study tools and an offline sample quiz. AI features that need Node.js and Ollama are not hosted on GitHub Pages.",
     technologies: ["HTML", "CSS", "JavaScript", "Node.js", "Ollama"],
-    symbol: "✧",
+    symbol: "âœ§",
     github: "https://github.com/BavanBali/StudyMate-AI",
     demo: "https://bavanbali.github.io/StudyMate-AI/",
   },
   {
-    title: "Portfolio Project",
-    description: "Published HTML, CSS, and JavaScript portfolio starter. Its placeholder project entries are sample content, not verified work.",
-    technologies: ["HTML", "CSS", "JavaScript"],
-    symbol: "↗",
-    github: "https://github.com/BavanBali/portfolio-project",
-    demo: "https://bavanbali.github.io/portfolio-project/",
-  },
-  {
-    title: "AI Interview Preparation Platform · Sample idea",
-    description: "Sample idea only; this platform is not built or published yet. The concept is to help students practice interview questions and mock interviews.",
-    technologies: ["Concept", "Interview practice"],
-    symbol: "✳",
-    github: "",
-    demo: "",
-  },
-  {
-    title: "Student Result Management System · Sample idea",
-    description: "Sample idea only; this database project is not built or published yet. No repository or live demo is available.",
-    technologies: ["Concept", "Database"],
-    symbol: "▤",
-    github: "",
+    title: "Bengaluru House Price Prediction",
+    description: "A Flask and scikit-learn app that estimates Bengaluru home prices from location, area, BHK, and bathroom count. Run locally; no public prediction server is configured yet.",
+    technologies: ["Python", "Flask", "Pandas", "scikit-learn"],
+    symbol: "âŒ‚",
+    github: "https://github.com/BavanBali/houseprizeprediction-",
     demo: "",
   },
 ];
