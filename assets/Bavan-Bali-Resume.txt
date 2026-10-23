@@ -1,0 +1,39 @@
+BAVAN BALI
+Aspiring Software Developer | Web Development & AI Enthusiast | Problem Solver
+
+CONTACT
+Email: your.email@example.com (replace with your email)
+LinkedIn: Add your profile URL
+GitHub: Add your profile URL
+
+PROFILE
+B.Tech Information Technology student at Chandigarh University. Interested in
+software development, full-stack web development, artificial intelligence and
+machine learning, data structures and algorithms, database management, and
+learning new technologies.
+
+EDUCATION
+B.Tech in Information Technology
+Chandigarh University
+Currently pursuing
+Dates: Add your start and expected graduation years
+
+SKILLS
+Programming: C++, Java, Python, JavaScript
+Web development: HTML, CSS, JavaScript, React.js, Node.js, Express.js
+Database: MongoDB, MySQL, SQLite
+Tools: Git, GitHub, VS Code, Postman
+Other interests: Artificial Intelligence, Machine Learning, Data Structures
+and Algorithms
+
+PROJECTS
+Replace these sample ideas with completed work, accurate descriptions,
+technologies, and working repository/demo URLs before applying.
+- AI Interview Preparation Platform
+- Job Finder AI
+- StudyMate AI
+- Student Result Management System
+- Personal Portfolio Website
+
+EXPERIENCE, CERTIFICATIONS & ACHIEVEMENTS
+Add only genuine details. No information supplied yet.
